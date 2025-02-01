@@ -6,12 +6,6 @@
  
  Clear Chat Button
  
- Typing Effect for AI Responses
- 
- Floating Chat Input
- 
- Icons in Model Selection
- 
  Streaming AI Responses
  
  Download Chat History
